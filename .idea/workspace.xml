@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbcd060a-7e00-4767-844c-39dc7519b9e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/MoviesRatedTagged.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/UniqueMovieRatings.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/dramaMovies.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/loadSourceData.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/usersRatings.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/movies/org/MovieProcessEvent.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/MoviesAnalytics.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/movies/org/Movie_Ratings.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/movieRatings.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/movies/org/Movies_Rated_Taged.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/movies/org/NumberOfMovies.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/NumberOfMovies.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/movies/org/Spark_Session.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/Spark_Session.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/movies/org/Unique_Movie_Ratings.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/movies/org/Users_most_Ratings.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/movies/org/movie_genre_drama.scala" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Movies" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/com/analytics/df/dramaMovies.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+              <folding>
+                <element signature="e#30#85#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/com/analytics/df/MoviesRatedTagged.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="24" />
+              <folding>
+                <element signature="e#30#100#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/com/analytics/df/MoviesAnalytics.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/com/analytics/df/NumberOfMovies.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/com/analytics/df/UniqueMovieRatings.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/com/analytics/df/Spark_Session.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/com/analytics/df/usersRatings.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="19" />
+              <folding>
+                <element signature="e#24#78#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Movies_Rated_Taged</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\cmd\git.exe" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/movies/org/Main.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/movies/org/Spark_Session.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/movies/org/Movies_Rated_Not_Taged.scala" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/movies/org/Load_Source_Data.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/movies/org/Unique_Movie_Ratings.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/movies/org/Movies_Rated_Taged.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/movies/org/movie_genre_drama.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/movies/org/Movie_Ratings.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/movies/org/Users_most_Ratings.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/movies/org/MovieProcessEvent.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/movies/org/NumberOfMovies.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/movies/org/Rddjoin.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/movies/rdd/Rddjoin.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/com/analytics/org/MovieProcessEvent.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/MovieProcessEvent.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/movie_genre_drama.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/filterDramaMovies.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/Movie_Ratings.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/dramaMovies.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/movieRatings.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/Users_most_Ratings.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/usersRatings.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/Movies_Rated_Taged.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/MoviesRatedTagged.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/NumberOfMovies.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/Unique_Movie_Ratings.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/UniqueMovieRatings.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/com/analytics/df/MoviesAnalytics.scala" />
+        <option value="$PROJECT_DIR$/Readme.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Movies" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Movies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Movies" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Movies" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Movies" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Movies" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Movies" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Movies" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Movies" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Movies" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Movies" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Movies" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="analytics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Movies" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Movies" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="analytics" type="462c0819:PsiDirectoryNode" />
+              <item name="df" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Movies" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Movies" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MovieProcessEvent (1)">
+    <configuration name="MovieProcessEvent (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.com.analytics.df.MovieProcessEvent" />
+      <module name="Spark_Sql_MovieLens" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.com.analytics.df.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieProcessEvent" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.movies.org.MovieProcessEvent" />
+      <module name="Spark_Sql_MovieLens" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.movies.org.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rddjoin" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.movies.rdd.Rddjoin" />
+      <module name="Spark_Sql_MovieLens" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.movies.rdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unique_Movie_Ratings" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.movies.org.Unique_Movie_Ratings" />
+      <module name="Spark_Sql_MovieLens" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.movies.org.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Users_most_Ratings" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.movies.org.Users_most_Ratings" />
+      <module name="Spark_Sql_MovieLens" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.movies.org.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MovieProcessEvent (1)" />
+        <item itemvalue="Application.MovieProcessEvent" />
+        <item itemvalue="Application.Rddjoin" />
+        <item itemvalue="Application.Users_most_Ratings" />
+        <item itemvalue="Application.Unique_Movie_Ratings" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Movies" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="movies [file:/C:/Users/Indium%20Software/IdeaProjects/Movies/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Movies-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="3601946530" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbcd060a-7e00-4767-844c-39dc7519b9e1" name="Default Changelist" comment="" />
+      <created>1561469259535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561469259535</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit:">
+      <created>1561552796719</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561552796719</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.5008183" side_tool="true" weight="0.20347957" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49918166" visible="true" weight="0.20347957" />
+      <window_info id="Structure" order="6" sideWeight="0.5008183" side_tool="true" weight="0.20347957" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="0" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.23731588" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.29787233" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.3289689" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="sbt" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="initial commit:" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit:" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/movies/org/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/movies/org/Rddjoin.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/com/analytics/rdd/Rddjoin.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#23#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/com/analytics/df/Spark_Session.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/com/analytics/df/dramaMovies.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="e#30#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/com/analytics/df/movieRatings.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#30#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/com/analytics/df/loadSourceData.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/com/analytics/df/UniqueMovieRatings.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/com/analytics/df/usersRatings.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <element signature="e#24#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/com/analytics/df/MoviesRatedTagged.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="24" />
+          <folding>
+            <element signature="e#30#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/com/analytics/df/NumberOfMovies.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/com/analytics/df/MoviesAnalytics.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
